@@ -17,6 +17,7 @@
     --nav-menu-color: var(--accent-color);
     --paragraph-header-color: var(--header-text-color);
     --section-header-color: var(--accent-color);
+    --display-rec-element: block;
   }
 }
 :root.theme-dark {
@@ -35,8 +36,5 @@
   --nav-menu-color: var(--accent-color);
   --paragraph-header-color: var(--header-text-color);
   --section-header-color: var(--accent-color);
-}
-
-.theme-dark .rec__element {
-  display: block;
+  --display-rec-element: block;
 }

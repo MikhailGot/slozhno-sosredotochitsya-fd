@@ -11,11 +11,13 @@
     --main-bg-image: url("../images/cover-image-light.png");
     --accent-color: #FF8DCB;
     --title-color: #FFC2E6;
-    --button-focus-outline: rgba(255, 141, 203, 0.4);
+    --button-focus-outline: rgba(50, 49, 45, 0.4);
     --border-color: var(--text-color);
     --nav-menu-color: var(--text-color);
     --paragraph-header-color: var(--text-color);
     --section-header-color: var(--text-color);
+    --focus-color: #FF0070;
+    --display-rec-element: none;
   }
 }
 
@@ -29,9 +31,11 @@
   --main-bg-image: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
-  --button-focus-outline: rgba(255, 141, 203, 0.4);
+  --button-focus-outline: rgba(50, 49, 45, 0.4);
   --border-color: var(--text-color);
   --nav-menu-color: var(--text-color);
   --paragraph-header-color: var(--text-color);
   --section-header-color: var(--text-color);
+  --focus-color: #FF0070;
+  --display-rec-element: none;
 }
